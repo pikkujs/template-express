@@ -1,0 +1,19 @@
+{
+  "listTodos": "listTodos",
+  "getTodo": "getTodo",
+  "createTodo": "createTodo",
+  "updateTodo": "updateTodo",
+  "deleteTodo": "deleteTodo",
+  "completeTodo": "completeTodo",
+  "login": "login",
+  "getMe": "getMe",
+  "logout": "logout",
+  "greet": "greet",
+  "remoteGreet": "remoteGreet",
+  "dailySummary": "dailySummary",
+  "weeklyCleanup": "weeklyCleanup",
+  "todoStream": "todoStream",
+  "testEventTrigger": "testEventTrigger",
+  "onTestEvent": "onTestEvent",
+  "rpcCaller": "rpcCaller"
+}
